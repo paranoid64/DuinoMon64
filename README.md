@@ -16,6 +16,11 @@ https://www.c64-wiki.de/wiki/C64
 There is only one emulator that can emulate the WIC64 module and of course the C64. This is the Kernal64 emulator.
 The programme was also written with this emulator.
 
+https://github.com/abbruzze/kernal64
+
+After switching on the WiC64 in the menu Settings -> I/O -> WiC64 panel the software DuinoMon64 written 
+for the WiC64 as well as the original WIC64 portal can be used.
+
 ## What is the PHP file for?
 The PHP file and the ASM code serve as a suggestion for implementing your own service.
 The code is freely available. By free, I also mean free, i.e. free of charge.
